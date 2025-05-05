@@ -6,6 +6,8 @@ To Get Data:
 - Download cxr-study-list.csv.gz and mmimic-cxr-reports.zip
 - Uncompress and put in "mimic-cxr-reports" directory
 
+Ensure that all dependecies are downloaded from requirements.txt
+
 To Run Pipeline:
 
 - go to "script" directory
