@@ -1,0 +1,1 @@
+Add the MIMIC-CXR files to this folder!
